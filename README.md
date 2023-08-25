@@ -2,7 +2,7 @@
 this is a simple crud using java spring-boot
 
 **
-1 merchant can have many store per merchant to do data collection
+this code allow a merchant to do data collection in case 1 merchant will have many stores
 
 Endpoint:
 //to create merchant
